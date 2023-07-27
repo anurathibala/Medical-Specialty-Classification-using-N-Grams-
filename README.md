@@ -1,10 +1,6 @@
 # Medical-Specialty-Classification-using-N-Grams-
 This project classified medical transcriptions from 8 specialties using N-gram models. Uni-gram, bi-gram, and tri-gram models were tested using Naive Bayes, KNN, Decision Tree, and LSTM models built in Python.
 
-Here is a draft README.md based on the provided report:
-
-# Medical Specialty Classification using N-Grams
-
 ## Introduction
 
 This project classifies medical transcription data into different specialties using N-gram modeling and machine learning classifiers. The aim is to accurately categorize medical reports to improve healthcare efficiency and quality.
